@@ -31,8 +31,8 @@ Print the characters and its huffmancode
  
 ## Program:
 ```
-DEVELOPED BY: BALACHANDRAN S
-REGISTER NUMBER: 212222100008
+DEVELOPED BY: praveen ck
+REGISTER NUMBER: 212222243003
 ```
 # Get the input String
 ```python
